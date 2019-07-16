@@ -1,11 +1,11 @@
 {
   "name": "back-end",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "src/server.js",
   "license": "MIT",
   "author": "leonardo-daiub",
   "scripts": {
-    "start": "node server.js",
+    "start": "node src/server.js",
     "dev": "supervisor src/server.js"
   },
   "dependencies": {
